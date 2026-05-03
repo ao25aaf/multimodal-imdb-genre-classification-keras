@@ -64,7 +64,7 @@ multimodal-imdb-genre-classification-keras/
 │   └── multimodal_imdb_genre_classification_report.pdf
 │
 ├── images/
-│   └── sample_outputs.png
+│   └── sample_outputs.jpg
 │
 ├── README.md
 │
